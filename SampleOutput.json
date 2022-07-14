@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Japan ex-PM Abe injured after reported gunshot attack",
+            "description": "Local media outlets say Mr Abe collapsed halfway during his speech, and appeared to be bleeding.",
+            "url": "http://www.bbc.co.uk/news/world-asia-62089486",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+            "publishedAt": "2022-07-08T03:22:20.6451622Z",
+            "content": "Former Japanese Prime Minister Shinzo Abe was shot at an event in the city of Nara, according to local media reports. \r\nAccording to news broadcaster NHK, Mr Abe was shot from the back and collapsed … [+238 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Simone Biles given highest US civilian award",
+            "description": "The Olympic gymnast is the youngest person ever to receive the Presidential Medal of Freedom.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62089116",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C906/production/_125826415_p0ckmr93.jpg",
+            "publishedAt": "2022-07-08T01:52:17.1444118Z",
+            "content": "Olympic gymnast Simone Biles has become the youngest person ever to receive the Presidential Medal of Freedom, the highest civilian award in the US.\r\nPresident Biden awarded the medals to a number of… [+496 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ghislaine Maxwell appeals against sex trafficking conviction",
+            "description": "Ghislaine Maxwell formally filed her appeal nine days after her conviction for child sex trafficking.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62088862",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/388D/production/_125677441_maxwellgetty.jpg",
+            "publishedAt": "2022-07-08T00:07:22.7220177Z",
+            "content": "Ghislaine Maxwell has appealed against her child sex trafficking conviction and the 20-year prison term she was handed by a US judge last month. \r\nMaxwell, 60, was convicted in December of recruiting… [+2189 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Derek Chauvin sentenced to 20 years for violating George Floyd's rights",
+            "description": "The former police officer is already serving a 22-year prison sentence for the murder of Mr Floyd.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62088103",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A305/production/_122233714_chauvin.jpg",
+            "publishedAt": "2022-07-07T20:37:18.1872578Z",
+            "content": "Former Minneapolis police officer Derek Chauvin has been sentenced to more than 20 years in prison for violating George Floyd's civil rights.\r\nChauvin, 46, pleaded guilty to the separate federal civi… [+2624 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Who will replace Boris Johnson?",
+            "description": "Tory MPs are vying to become the next party leader and prime minister - but who are they?",
+            "url": "http://www.bbc.co.uk/news/uk-politics-60037657",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/112E3/production/_125817307_promo_conservative_leadership_candidates_cards_v2_976-nc.png",
+            "publishedAt": "2022-07-07T19:37:18.6746795Z",
+            "content": "Boris Johnson has announced he will resign, which means there will now be a leadership election to decide who becomes the next Conservative leader and prime minister.\r\nThey will have to secure the ba… [+1014 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Theranos exec Sunny Balwani convicted of fraud",
+            "description": "He and fraudster Elizabeth Holmes ran the Silicon Valley company as a couple before its implosion.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-61902378",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17DCE/production/_125824779_hi077018604.jpg",
+            "publishedAt": "2022-07-07T19:22:24.4617175Z",
+            "content": "Silicon Valley executive Ramesh \"Sunny\" Balwani has been found guilty of deceiving investors as part of a plot with ex-girlfriend Elizabeth Holmes. \r\nHe falsely and repeatedly claimed that their comp… [+3032 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Nadal withdraws from Wimbledon semi-final",
+            "description": "Rafael Nadal withdraws from his Wimbledon semi-final against Nick Kyrgios with an abdominal injury.",
+            "url": "http://www.bbc.co.uk/sport/tennis/62082405",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+            "publishedAt": "2022-07-07T18:37:22.9871418Z",
+            "content": "<table><tr><th>Wimbledon 2022 on the BBC</th></tr>\r\n<tr><td>Venue: All England Club Dates: 27 June-10 July</td></tr><tr><td>Coverage: Live across BBC TV, radio and online with extensive coverage on B… [+1084 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Godfather actor James Caan dies at 82",
+            "description": "The US actor rose to fame for his portrayal of Sonny Corleone in the mafia film.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62087285",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7F82/production/_125824623_e615966452703046925d3c14faf6ff8fc706c7a1.jpg",
+            "publishedAt": "2022-07-07T18:07:21.7383427Z",
+            "content": "US actor James Caan, who rose to fame as Sonny Corleone in The Godfather, has died at the age of 82.\r\nA leading man in Hollywood through the 1970s who continued to act into the 2000s, he won an Oscar… [+255 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Abortion: Mississippi's near-total ban to take hold",
+            "description": "A state ban on abortion has forced the clinic at the heart of last month's Supreme Court decision to shut.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62082595",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2C9E/production/_125822411_5043ae3c026157b801aa561e97b232c872f4a49f.jpg",
+            "publishedAt": "2022-07-07T17:52:23.3480068Z",
+            "content": "The only abortion clinic in Mississippi has shut as a near-total ban on the procedure takes effect in the state.\r\nJackson Women's Health Organization, the clinic at the heart of the US Supreme Court … [+2727 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Prince Harry faced tensions with royal officials as security downgraded, court hears",
+            "description": "The Duke of Sussex says officials were involved in decisions about his security that were unfair.",
+            "url": "http://www.bbc.co.uk/news/uk-62044951",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11EA5/production/_125818337_gettyimages-1400866944.jpg",
+            "publishedAt": "2022-07-07T16:07:23.5337023Z",
+            "content": "By Joseph LeeBBC News\r\nThe Duke of Sussex faced \"significant tensions\" with a top aide to the Queen involved in downgrading his security, a court has been told.\r\nChallenging the decision, Prince Harr… [+3699 chars]"
+        }
+    ]
+}
